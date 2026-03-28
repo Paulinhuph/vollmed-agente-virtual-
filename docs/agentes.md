@@ -48,3 +48,9 @@ Regras:
 <img width="1830" height="887" alt="orquestrador" src="https://github.com/user-attachments/assets/bee47964-4336-49c8-b780-4ae30a3074a7" />
 
 
+### 🔹 Gerenciador de Consultas
+
+<img width="1828" height="979" alt="Captura de Tela (28)" src="https://github.com/user-attachments/assets/8221bb3f-981c-46ab-ae14-4be20ba831fb" />
+
+
+
