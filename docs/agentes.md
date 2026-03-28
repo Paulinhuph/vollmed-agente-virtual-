@@ -16,7 +16,9 @@ Restrições:
 
 Função:
 - Responder perguntas sobre a clínica
+  
 Fonte:
+
 ([informacoes-gerais.pdf](https://github.com/user-attachments/files/26318799/informacoes-gerais.pdf)
 
 Regras:
