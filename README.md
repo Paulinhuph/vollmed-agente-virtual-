@@ -50,7 +50,7 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 <img width="1828" height="979" alt="Captura de Tela (28)" src="https://github.com/user-attachments/assets/438b87df-967d-4a3b-be63-8169d4ac508a" />
 
 ---
-
+### 🔹 Base de dados (Excel) 
 <img width="1633" height="684" alt="Captura de Tela (29)" src="https://github.com/user-attachments/assets/dcc3c269-0008-4922-b4cc-97e75d522919" />
 
 ---
