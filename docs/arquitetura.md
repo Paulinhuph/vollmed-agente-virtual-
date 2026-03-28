@@ -3,17 +3,20 @@
 - O VollMed foi projetado utilizando uma arquitetura multiagente, onde diferentes agentes possuem responsabilidades bem definidas.
 
 ### 🔹 Fluxo Geral
-Usuário
-  ↓
-Agente Orquestrador
-  ↓
-  ├── Base de conhecimento da Clínica
-  └── Gerenciador de Consultas
+  
+    Usuário
+    ↓
+    Agente Orquestrador
+    ↓
+    ├── Base de conhecimento da Clínica
+    └── Gerenciador de Consultas
         ├── Marcar consulta
         ├── Confirmar ou cancelar consulta
         ├── Listar consultas
         └── Fluxo de lembrete por e-mail
-        
+
+---        
+
 ### 🔹 Agente Orquestrador
 
 Responsável por:
