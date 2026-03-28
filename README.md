@@ -60,6 +60,7 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 - Ausência de validações complexas de agenda
 - Fluxo de lembrete não automatizado por tempo
 
+
 ---
 
-### Paulo Henrique
+
