@@ -42,7 +42,7 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 <img width="1762" height="752" alt="Captura de Tela (26)" src="https://github.com/user-attachments/assets/44d0da11-979b-4bde-8d88-d51363640c6d" />
 
 ---
-### 🔹 Base de Conhecimento (RAG)
+### 🔹 Execução do lembrete (resultado)
 <img width="1786" height="918" alt="Captura de Tela (27)" src="https://github.com/user-attachments/assets/2120c5d2-5d5b-4b6a-985f-e056ccbfff8c" />
 
 ---
