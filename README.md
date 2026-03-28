@@ -38,6 +38,7 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 <img width="1830" height="887" alt="Captura de Tela (25)" src="https://github.com/user-attachments/assets/89f21913-14e0-494b-bd6c-0dd47e321bde" />
 
 ---
+### 🔹 Gerenciador de Consultas
 <img width="1762" height="752" alt="Captura de Tela (26)" src="https://github.com/user-attachments/assets/44d0da11-979b-4bde-8d88-d51363640c6d" />
 
 ---
