@@ -36,5 +36,4 @@
 
 ### 🔹 Exemplo de Email
 
-![WhatsApp Image 2026-03-24 at 18 43 58](https://github.com/user-attachments/assets/fc2508f2-c09a-46bb-bac9-1dbcf8864e41)
 
