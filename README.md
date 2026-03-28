@@ -34,6 +34,7 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 
 ---
 ## 📷 Demonstração
+### 🔹 Agente Orquestrador (Recepcionista)
 <img width="1830" height="887" alt="Captura de Tela (25)" src="https://github.com/user-attachments/assets/89f21913-14e0-494b-bd6c-0dd47e321bde" />
 
 ---
