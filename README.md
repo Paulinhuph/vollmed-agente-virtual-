@@ -59,3 +59,6 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 - Identificação de consultas por e-mail
 - Ausência de validações complexas de agenda
 - Fluxo de lembrete não automatizado por tempo
+
+---
+## Autor: Paulo Henrique
