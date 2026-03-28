@@ -46,7 +46,7 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 <img width="1786" height="918" alt="Captura de Tela (27)" src="https://github.com/user-attachments/assets/2120c5d2-5d5b-4b6a-985f-e056ccbfff8c" />
 
 ---
-
+### 🔹 Exemplo de consulta (confirmação)
 <img width="1828" height="979" alt="Captura de Tela (28)" src="https://github.com/user-attachments/assets/438b87df-967d-4a3b-be63-8169d4ac508a" />
 
 ---
