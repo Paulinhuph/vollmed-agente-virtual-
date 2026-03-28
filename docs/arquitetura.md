@@ -1,8 +1,8 @@
-# Arquitetura do Sistema
+## Arquitetura do Sistema
 
 - O VollMed foi projetado utilizando uma arquitetura multiagente, onde diferentes agentes possuem responsabilidades bem definidas.
 
-## 🔹 Fluxo Geral
+### 🔹 Fluxo Geral
 Usuário
   ↓
 Agente Orquestrador
@@ -14,16 +14,19 @@ Agente Orquestrador
         ├── Listar consultas
         └── Fluxo de lembrete por e-mail
         
-## 🔹 Agente Orquestrador
+### 🔹 Agente Orquestrador
 
 Responsável por:
 - identificar a necessidade do usuário
 - encaminhar para o agente correto
 - evitar respostas especializadas
   
-## 🔹 Separação de responsabilidades
+### 🔹 Separação de responsabilidades
 
 O sistema separa claramente:
 - Informação → Base de conhecimento
 - Operação → Gerenciador de consultas
 - Isso reduz complexidade e melhora a organização do fluxo.
+
+
+---
