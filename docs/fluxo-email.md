@@ -36,4 +36,7 @@
 
 ### 🔹 Exemplo de Email
 
+<img width="1080" height="787" alt="image" src="https://github.com/user-attachments/assets/d7c470a4-920c-419d-8d3c-5c4d82095b96" />
+
+
 
