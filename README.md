@@ -61,5 +61,5 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 - Fluxo de lembrete não automatizado por tempo
 
 ---
-## Autor
+
 ### Paulo Henrique
