@@ -1,4 +1,7 @@
 # 🏥 VollMed - Agente Virtual para Clínica Médica
+
+<img width="488" height="488" alt="image" src="https://github.com/user-attachments/assets/ef974995-467e-4d06-bd99-db12e62eed3e" />
+
 Sistema multiagente desenvolvido no Microsoft Copilot Studio para automatizar o atendimento e operações de uma clínica médica, incluindo gerenciamento de consultas, respostas institucionais e envio de lembretes por e-mail.
 
 ## 📌 Objetivo
@@ -44,6 +47,11 @@ O sistema é baseado em uma arquitetura multiagente com separação de responsab
 <img width="1828" height="979" alt="Captura de Tela (28)" src="https://github.com/user-attachments/assets/438b87df-967d-4a3b-be63-8169d4ac508a" />
 
 ---
+
+<img width="1633" height="684" alt="Captura de Tela (29)" src="https://github.com/user-attachments/assets/dcc3c269-0008-4922-b4cc-97e75d522919" />
+
+---
+
 ## ⚠️ Limitações
 - Este projeto foi desenvolvido como protótipo funcional. Algumas limitações incluem:
 - Uso de Excel como base de dados
