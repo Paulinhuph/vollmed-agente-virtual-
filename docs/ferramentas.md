@@ -26,4 +26,7 @@
 ---
 
 
+### 🔹 Base de dados (Excel)
+
+
 <img width="1633" height="684" alt="Captura de Tela (29)" src="https://github.com/user-attachments/assets/8002e574-ce27-4faa-afd7-02bb7f2fdfb9" />
